@@ -1,7 +1,7 @@
 -- called from /init.lua
 local raw_loadfile = ...
 
-_G._OSVERSION = "OpenOS 1.7.5"
+_G._OSVERSION = "openOS-git 1.7.5"
 
 -- luacheck: globals component computer unicode _OSVERSION
 local component = component
